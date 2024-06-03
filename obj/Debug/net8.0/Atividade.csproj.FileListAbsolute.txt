@@ -12,3 +12,4 @@ C:\_Senai\Atividade\obj\Debug\net8.0\refint\Atividade.dll
 C:\_Senai\Atividade\obj\Debug\net8.0\Atividade.pdb
 C:\_Senai\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
 C:\_Senai\Atividade\obj\Debug\net8.0\ref\Atividade.dll
+C:\_Senai\Atividade\obj\Debug\net8.0\Atividade.sourcelink.json
